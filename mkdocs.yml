@@ -1,5 +1,7 @@
 site_name: Joshua Ryan-Sprowson
 site_url: https://20025016.github.io/algorithms/
+theme:
+    name: readthedocs
 nav:
     - Home: 'index.md'
     - 'Data Structures':
