@@ -1,0 +1,14 @@
+site_name: Joshua Ryan-Sprowson
+site_url: https://20025016.github.io/algorithms/
+nav:
+    - Home: 'index.md'
+    - 'Data Structures':
+        - 'Lists': 'data-structures/lists.md'
+        - 'Arrays': 'data-structures/arrays.md'
+        - 'Linked Lists': 'data-structures/linked-lists.md'
+        - 'Stack': 'data-structures/stack.md'
+        - 'Queues': 'data-structures/queues.md'
+        - 'Trees': 'data-structures/trees.md'
+        - 'Graphs': 'data-structures/graphs.md'
+        - 'Sets': 'data-structures/sets.md'
+        - 'Hash Tables': 'data-structures/hash-tables.md'
